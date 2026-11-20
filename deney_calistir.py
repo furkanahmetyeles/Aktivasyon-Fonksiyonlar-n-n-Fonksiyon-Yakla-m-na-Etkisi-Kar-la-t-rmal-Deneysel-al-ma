@@ -1,7 +1,7 @@
 """
 Aktivasyon Fonksiyonlarının Fonksiyon Yaklaşımına Etkisi: Bir Karşılaştırmalı Deneysel Çalışma
 Veri Seti: UCI Energy Efficiency (ID: 242)
-Yazarlar: Danışman Hoca, Furkan Ahmet Yeles
+Yazarlar: Dr. Öğr. Üyesi Saim KURAL, Furkan Ahmet Yeles
 Kurum: Manisa Celal Bayar Üniversitesi, Makine Mühendisliği Bölümü
 
 Bu betik aşağıdaki çıktıları otomatik olarak üretir:
