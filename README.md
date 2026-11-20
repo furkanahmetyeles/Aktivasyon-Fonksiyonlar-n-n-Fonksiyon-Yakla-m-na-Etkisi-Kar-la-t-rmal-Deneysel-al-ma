@@ -3,7 +3,7 @@
 Bu depo, Manisa Celal Bayar Üniversitesi Yapay Sinir Ağları dersi kapsamında Springer *Emerging Trends in Mechatronics* serisi için hazırlanan kitap bölümünün deneysel kodlarını ve veri işleme adımlarını içermektedir.
 
 ## Yazarlar
-1. Danışman Hoca (Manisa Celal Bayar Üniversitesi)
+1. Dr. Öğr. Üyesi Saim KURAL (Manisa Celal Bayar Üniversitesi)
 2. Furkan Ahmet Yeles (Manisa Celal Bayar Üniversitesi, Makine Mühendisliği Bölümü)
 
 ## Veri Seti
