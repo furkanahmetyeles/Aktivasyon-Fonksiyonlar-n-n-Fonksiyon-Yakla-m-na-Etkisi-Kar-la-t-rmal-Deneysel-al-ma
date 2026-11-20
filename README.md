@@ -1,0 +1,1 @@
+# Aktivasyon-Fonksiyonlar-n-n-Fonksiyon-Yakla-m-na-Etkisi-Kar-la-t-rmal-Deneysel-al-ma
